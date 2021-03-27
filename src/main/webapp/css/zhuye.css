@@ -1,0 +1,25 @@
+#footer {
+    height: 40px;
+    line-height: 40px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: #fff;
+    color: #808A87;
+    font-family: Arial;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.backtenal{
+    background-color:#f5f5f5;
+    border-color:#ddd;
+}
+.divHeigh{
+    height:auto!important;
+    height:100px;
+    min-height:100px;}
+
+.info{
+    float: left;
+    max-width: 42px;
+}

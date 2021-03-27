@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.content-cover-wrap {
+    height:100%;
+    margin-top:40px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border: 1px solid #d8d8d8;
+    overflow:auto
+}
+.content-items{
+    float: left;
+    height:40px;
+    width:28.5%;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left:40px;
+
+}
